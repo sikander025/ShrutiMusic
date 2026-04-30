@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: shruti-music
+    name: shruti-musi
     env: python
     region: oregon
     plan: free
