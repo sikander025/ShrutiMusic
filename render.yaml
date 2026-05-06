@@ -26,7 +26,7 @@ services:
         value: "8511575655:AAFp6vSTokoh5Ou6GVxrd6XH90-C53Gvve4"
 
       - key: MONGO_DB_URI
-        value: "mongodb+srv://astarrmusicbot:Sikander9898@cluster0.t98tkux.mongodb.net/?appName=Cluster0"
+        value: "mongodb+srv://sikander025tg_db_user:A0Ksjm2i4r4znwy2@cluster0.xuelgmt.mongodb.net/?appName=Cluster0"
 
       - key: OWNER_ID
         value: "8785619142"
